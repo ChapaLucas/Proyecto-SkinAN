@@ -17,4 +17,11 @@ header{
     font-weight: bold;
     font-style: normal;
     font-size: 1rem;
+    border-bottom: 0.24em solid #2C473E;
+    width: 100%;
+}
+
+body{
+    margin-left: 0;
+    margin-right: 0;
 }
